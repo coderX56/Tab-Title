@@ -1,0 +1,15 @@
+{
+	"manifest_version": 3,
+	"name": "Title picker",
+	"version": "1.0",
+	"description": "Fetch the title of current webpage .",
+	"action": {
+		"default_popup": "pop.html",
+		"default_icon": {
+			"16": "icons/tag16.png",
+			"48": "icons/tag48.png",
+			"128": "icons/tag128.png"
+		}
+	},
+	"permissions": ["tabs"]
+}
